@@ -96,8 +96,11 @@ The sum of 10 and 20 is: 30
 
 ## 👤 Author
 
-**[Your Name]** — Java Course Assignment
+**Hosny Hassan**  — Java Course Assignment
 
 ---
 
-*Made with ☕ and Java*
+## 🙏 Acknowledgments
+
+This assignment was completed under the supervision of **Eng. Mohamed Abdelkader** and the mentorship of **Amr Khaled**.
+
